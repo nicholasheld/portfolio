@@ -1,5 +1,7 @@
 * {
     box-sizing: border-box;
+    /*padding: 0;
+    margin: 0;  */
   }
   
   body {
@@ -8,10 +10,14 @@
   }
   
   header {
+    display: flex;
+    justify-content: flex-start;
     padding: 40px;
-    text-align: center;
+    /*text-align: center;*/
     background: #13293d;
     color: #fff;
+    font-size: 32px;
+    text-decoration:underline;
   }
   
   nav {
@@ -36,15 +42,18 @@
     flex: 1;
     background-color: #b9c6ae;
     padding: 20px;
+    border: 1px solid black;
   }
   
   section {
     flex: 3;
-    background-color: #fff;
+    background-color: rgb(235, 245, 231);
     padding: 20px;
+    border: 1px solid black;
   }
-  
-  .sample-img {
+
+  /*This is the thumbnails within the work section, the first is the deployed homework for seo*/
+  #seo {
     background-color: #fff;
     width: 100%;
     padding: 20px;
