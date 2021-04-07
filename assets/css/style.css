@@ -56,7 +56,7 @@
   #seo {
     float:left;
     background-color: rgb(211, 167, 86);
-    width:50%;
+    width:30%;
     padding: 20px;
     height: 200px;
     border: 1px solid black;
@@ -66,9 +66,18 @@
   
   /*This is my work in progress place holder*/
   #app2 {
+    float:left;
+    background-color: #fff;
+    width:30%;
+    padding: 20px;
+    height: 200px;
+    border: 1px solid black;
+  }
+
+  #app3 {
     float:right;
     background-color: #fff;
-    width:33%;
+    width:30%;
     padding: 20px;
     height: 200px;
     border: 1px solid black;
