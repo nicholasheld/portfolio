@@ -3,5 +3,7 @@ This is Nicholas Held's professional portfolio with links to github projects and
 
 Link to github: https://github.com/nicholasheld/portfolio
 
+Link to deployed page: https://nicholasheld.github.io/portfolio/
+
 Screenshot location of the final website:
 ![Alt text](/images.portfolioscreenshot.PNG?raw=true "portfolio screenshot")
