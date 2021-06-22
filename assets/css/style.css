@@ -57,22 +57,36 @@ height: 200px;
 border: 1px solid black;
 text-align:center;
   }
-  /*These are the thumbnails within the work section, the first is the deployed homework for seo*/
-  #seo {
- 
-    background-color: rgb(211, 167, 86);
-  
 
+  /*These are the thumbnails within the work section*/
+  #app1 {
+    background-color: rgb(180, 235, 216);
+    background-image: url(/images/brew.png);
+    background-position: center center;
+    background-size:contain;
   }
   
-  /*This is my work in progress place holder*/
   #app2 {
-
     background-color: #fff;
+    background-image: url(/images/password.PNG);
+    background-position: center center;
+    background-size:contain;
   }
 
   #app3 {
-    background-color: rgb(136, 65, 65);
+    background-color: rgb(193, 223, 169);
+  }
+
+  #app4 {
+    background-color: gray;
+    background-image: url(/images/blog.PNG);
+    background-position: center center;
+    background-size:contain;
+  }
+  #app5 {
+    background-image: url(/images/court.png);
+    background-position: center center;
+    background-size:contain;
   }
   
   footer {

@@ -1,5 +1,5 @@
 # portfolio
-This is Nicholas Held's professional portfolio with links to github projects and an about me section. There is one project that has been deployed with another on it's way. The contact me section has information up to date.
+This is Nicholas Held's professional portfolio with links to github projects and an about me section. The contact me section has information up to date. This will be updated on a continued basis with more projects. 
 
 Link to github: https://github.com/nicholasheld/portfolio
 
