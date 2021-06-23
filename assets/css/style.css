@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    /*padding: 0;
+    /* padding: 0;
     margin: 0;  */
   }
   
@@ -40,19 +40,35 @@
   aside {
     flex: 1;
     background-color: #b9c6ae;
-    padding: 20px;
+    /* padding: 20px; */
     border: 1px solid black;
   }
   
   section {
     flex: 3;
     background-color: rgb(235, 245, 231);
-    padding: 20px;
+    padding: 10px;
     border: 1px solid black;
   }
+.app-thumb  {
+  height: 180px;
+  width: 180px;
+  /* padding: 3px; */
+  border: 1px solid black;
+  margin: 4px;
+
+}
+  .container  {
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  
   #Apps {
 display: flex;
-padding: 20px;
+/* padding: 20px; */
 height: 200px;
 border: 1px solid black;
 text-align:center;
@@ -75,6 +91,9 @@ text-align:center;
 
   #app3 {
     background-color: rgb(193, 223, 169);
+    background-image: url(/images/planner.PNG);
+    background-position: center center;
+    background-size:contain;
   }
 
   #app4 {
